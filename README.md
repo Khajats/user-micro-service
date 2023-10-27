@@ -63,4 +63,4 @@ To execute the CI/CD workflow, follow these steps:
    - The build and deployment steps will run automatically on the `main` branch after a successful merge.
 
 6. **End-to-End Tests:**
-   - After deployment to production, the end-to-end tests will run to verify the functionality of the deployed code.
+   - After deployment to production, the end-to-end tests will run to verify the functionality of the deployed code...
